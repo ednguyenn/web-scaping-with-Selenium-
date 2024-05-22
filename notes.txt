@@ -1,0 +1,28 @@
+scaping data from these website catalog:
+woolworth: https://www.woolworths.com.au/shop/catalogue/view#view=catalogue2&saleId=54911&areaName=VIC&page=1
+coles: https://www.coles.com.au/catalogues/view#view=list&saleId=54892&areaName=c-nsw-met
+
+
+the following columns will be in dataframe:
+'item name'
+'sale price'
+'optionsuffix'
+'saving option'
+'saving amount'
+'compatitive price'
+'sale date'
+'supermarket'
+'product categories'
+
+
+selenium tutorial: https://www.youtube.com/watch?v=j7VZsCCnptM
+CSS selector: https://www.w3schools.com/cssref/css_selectors.php
+github: https://github.com/jimdevops19/SeleniumSeries
+
+checkout: BrowseAI
+check out: https://brightdata.com/?utm_source=brand&utm_campaign=brnd-mkt_youtube_fknight&promo=fknight
+for blocking issues
+
+### to do:
+    #scape data from woolworth and create a datafram just like the notebook
+    

@@ -23,6 +23,3 @@ checkout: BrowseAI
 check out: https://brightdata.com/?utm_source=brand&utm_campaign=brnd-mkt_youtube_fknight&promo=fknight
 for blocking issues
 
-### to do:
-    #scape data from woolworth and create a datafram just like the notebook
-    

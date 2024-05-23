@@ -27,3 +27,4 @@ if __name__ == "__main__":
     #add categories column into dataframe
     #add supermarket name (optional)
     #clean data and save it to csv for further analysis
+    #re-organise code with new class for better structure. 
